@@ -2,7 +2,7 @@
 
 Tell it a movie you love and it suggests similar ones. Built with Python, pandas and scikit-learn.
 
-![demo]("img.docx") 
+![CineMatch Demo](demo.png) 
 
 ## How it works
 
