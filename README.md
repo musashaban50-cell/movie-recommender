@@ -2,8 +2,7 @@
 
 Tell it a movie you love and it suggests similar ones. Built with Python, pandas and scikit-learn.
 
-<!-- Add a screenshot of the terminal output or your website mockup here:
-![demo](docs/demo.png) -->
+![demo](docs/demo.png) 
 
 ## How it works
 
@@ -16,7 +15,7 @@ Example: *Inception* (`Action, Adventure, Sci-Fi`) vs *The Matrix* (`Action, Sci
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/movie-recommender.git
+git clone https://github.com/<musashaban50-cell>/movie-recommender.git
 cd movie-recommender
 pip install -r requirements.txt
 
